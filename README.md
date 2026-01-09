@@ -41,16 +41,13 @@ Each repository contains documentation and configuration examples.
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Activity
 
-### Profile Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IronWillDevops&show_icons=true&hide_title=true&count_private=true)
+![Commits](https://img.shields.io/github/commit-activity/m/IronWillDevops/IronWillDevops)
+![Followers](https://img.shields.io/github/followers/IronWillDevops)
 
-### Commit Activity
-![GitHub Streak](https://streak-stats.demolab.com?user=IronWillDevops)
+![Contributions](https://ghchart.rshah.org/IronWillDevops)
 
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IronWillDevops&layout=compact)
 
 ---
 
